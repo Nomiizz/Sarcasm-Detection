@@ -1,0 +1,3 @@
+# Sarcasm Detection in textual data
+
+Sentiment analysis is often used in NLP to understand people’s subjective opinions. However, the analysis results may be biased if people use sarcasm in their statements. Therefore, to correctly understand people’s true intention, being able to detect sarcasm is crucial. In this project we propose to detect sarcasm in textual data. Previous efforts have been made to detect sarcasm based on sarcastic utterance in isolation. We use the context as well and employ different models to base our experiments. 
